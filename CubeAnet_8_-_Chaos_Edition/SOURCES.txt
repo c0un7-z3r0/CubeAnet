@@ -1,0 +1,5 @@
+Sources for CubeAnet 8 - Chaos Edition
+
+HyperCube 3D Printer/CNC (http://www.thingiverse.com/thing:1752766)
+Anet Evolution (http://www.thingiverse.com/thing:2786292)
+Compact mechanical endstop holder (http://www.thingiverse.com/thing:28728)
